@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memset() - function fills the first n bytes of the memory area
+ * _memset - function fills the first n bytes of the memory area
  * @s: memory area to be filled
  * @b: char to copy
  * @n: number of times to copy b
